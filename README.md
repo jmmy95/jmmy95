@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmmy95
-- 👀 I’m interested in Game & sostware development
+- 👀 I’m interested in Game & software development
 - 🌱 I’m currently learning Game development and Web programming with python and javascript
 - 💞️ I’m looking to collaborate on game development and websites projects
 - 📫 How to reach me jmuhembano12@gmail.com
